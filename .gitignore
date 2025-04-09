@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Node.js (if using)
+node_modules/
+dist/
+
+# Python (if applicable)
+__pycache__/
+*.pyc
+.env
+
+# C/C++
+*.o
+*.out
+*.exe
+build/
